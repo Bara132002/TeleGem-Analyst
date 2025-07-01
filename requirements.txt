@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+Flask==3.0.3
+requests==2.32.3
+pandas==2.2.2
+pandas-ta==0.3.14b0
+google-generativeai==0.7.0
